@@ -1,6 +1,7 @@
 This Project is a implementation of a simple E-commerce website using Python Web Framework Django.
 
 It employs sqlite3 as database.
+The front end is rendered with HTML and Bootstrap.
 
 In this website, an user will be able to:
 
